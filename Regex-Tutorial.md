@@ -8,6 +8,8 @@ This example of regex is used for matching emails.
 
 Matching an Email – /^([a-z0-9_.-]+)@([\da-z.-]+).([a-z.]{2,6})$/
 
+here i will be breaking down the components for what the text above means.
+
 ## Table of Contents
 
 - [Anchors](#anchors)
